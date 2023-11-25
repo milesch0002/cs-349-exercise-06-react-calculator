@@ -1,0 +1,13 @@
+- What were some of the challenges you encountered?
+    I ran into the problem where react was complaining that i did not define a function correctly in each component multiple times.
+    React uses a lot more tools compared to vanilla js to ouput on to the website and was confusing at times.
+
+
+- Differentiate between Real DOM and Virtual DOM. List out a few differences.
+    1) Using a virtual dom allows websites to deblpy and make change much more efficientlly though reusable components by only updating certain parts of the dom.
+    2) A real dom would load slower but easier for the website to be indexed and it can be directly manipulated with JS since the HTML elemnts are visible in the dom.
+
+- What are some problems that React can solve for us?
+    When working as a team react will be much easier to manage mergeing and fixing certain components of the program rather than re running the entire website.
+    Updating the dom is much simpler when certain components fail.
+    When working with a larger project scale you will only be managing each component rather than a long line of code also making it much more efficient.
