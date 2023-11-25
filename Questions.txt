@@ -2,6 +2,7 @@
     I ran into the problem where react was complaining that i did not define a function correctly in each component multiple times.
     React uses a lot more tools compared to vanilla js to ouput on to the website and was confusing at times.
     I also ran into problems deploying my site.
+    I created a new react project from scrached and tried both netlify and github pages but both would only deploy a blank page when uploading my public folder
 
 
 - Differentiate between Real DOM and Virtual DOM. List out a few differences.
