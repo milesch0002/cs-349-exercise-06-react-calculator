@@ -1,6 +1,7 @@
 - What were some of the challenges you encountered?
     I ran into the problem where react was complaining that i did not define a function correctly in each component multiple times.
     React uses a lot more tools compared to vanilla js to ouput on to the website and was confusing at times.
+    I also ran into problems deploying my site.
 
 
 - Differentiate between Real DOM and Virtual DOM. List out a few differences.
